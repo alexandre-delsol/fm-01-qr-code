@@ -64,7 +64,7 @@ No build tools or dependencies are required for this project.
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/alexandre-delsol/fm-01-qr-code
 ```
 
 Navigate to the project directory:
